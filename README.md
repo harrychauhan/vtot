@@ -13,6 +13,7 @@ If script is used a module
 import vtot.virustotal
 
 api = "[apikey]"
+
 list = ["filehash", "filehash","filehash","filehash"]   # You can also include local filepath
 
 x = vtot.virustotal
