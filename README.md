@@ -11,7 +11,7 @@
 
    (Your api key and max of 4 file hashes. You can also include local filepath.)
     
-<strong>If script is used as a module:</strong>
+<strong>If script "vtot/virustotal.py" is used as a module:</strong>
 
 import vtot.virustotal
 
